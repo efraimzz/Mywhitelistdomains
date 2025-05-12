@@ -18,4 +18,6 @@ firebaseinstallations.googleapis.com
 clientservices.googleapis.com
 content-autofill.googleapis.com
 mitmachim.top
-
+beacons.gcp.gvt2.com
+beacons5.gvt2.com
+beacons3.gvt2.com
