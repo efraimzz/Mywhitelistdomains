@@ -1,5 +1,6 @@
 beacons2.gvt2.com
 beacons.gvt2.com
+beacons.gvt4.com
 github.com
 localhost
 alive.github.com
