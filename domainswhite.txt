@@ -39,5 +39,12 @@ ads-resources.waze.com
 adsassets.waze.com
 wig-row.waze.com
 rt-xlb-row.waze.com
+gapi.waze.com
+ctilesgcs-row.waze.com
+social-row.waze.com
+sdk.waze.com
+cres.waze.com
+tts.waze.com
+inbox-row.waze.com
 
 
