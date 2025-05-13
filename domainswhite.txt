@@ -22,5 +22,5 @@ beacons.gcp.gvt2.com
 beacons5.gvt2.com
 beacons3.gvt2.com
 fonts.googleapis.com
-
+send.magicode.me
 
