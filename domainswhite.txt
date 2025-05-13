@@ -27,5 +27,7 @@ fonts.googleapis.com
 send.magicode.me
 maxcdn.bootstrapcdn.com
 optimizationguide-pa.googleapis.com
+www.google-analytics.com
+search.arin.net
 
 
