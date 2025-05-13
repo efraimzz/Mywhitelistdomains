@@ -35,5 +35,9 @@ firebaselogging-pa.googleapis.com
 firebaseremoteconfig.googleapis.com
 rt.waze.com
 sfepodownload.mediatek.com
+ads-resources.waze.com
+adsassets.waze.com
+wig-row.waze.com
+rt-xlb-row.waze.com
 
 
