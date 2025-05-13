@@ -47,5 +47,7 @@ cres.waze.com
 tts.waze.com
 inbox-row.waze.com
 firebase-settings.crashlytics.com
+github.dev
+clients4.google.com
 
 
