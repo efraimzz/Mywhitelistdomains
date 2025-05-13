@@ -26,4 +26,6 @@ beacons3.gvt2.com
 fonts.googleapis.com
 send.magicode.me
 maxcdn.bootstrapcdn.com
+optimizationguide-pa.googleapis.com
+
 
