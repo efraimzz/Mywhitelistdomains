@@ -51,4 +51,20 @@ github.dev
 clients4.google.com
 supl.google.com
 sgepodownload.mediatek.com
+taskassist-pa.googleapis.com
+inbox.google.com
+cdn.ampproject.org
+notifications-ueeshp-pa.googleapis.com
+taskassist-pa.googleapis.com
+update.googleapis.com
+people-pa.googleapis.com
+mtalk.google.com
+accounts.google.com
+gmscompliance-pa.googleapis.com
+www.googleapis.com
+gstatic.com
+www.waze.com
+geomobileservices-pa.googleapis.com
+infinitedata-pa.googleapis.com
+locationhistory-pa.googleapis.com
 
