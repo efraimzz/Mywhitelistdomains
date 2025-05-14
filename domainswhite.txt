@@ -75,5 +75,5 @@ apis.google.com
 myaccount.google.com
 account.google.co.il
 support.google.com
-
-
+translate.google.com
+a.nel.cloudflare.com
