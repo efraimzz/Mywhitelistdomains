@@ -65,6 +65,7 @@ www.googleapis.com
 gstatic.com
 www.waze.com
 rt-xlb-il.waze.com
+social.waze.co.il
 geomobileservices-pa.googleapis.com
 infinitedata-pa.googleapis.com
 locationhistory-pa.googleapis.com
