@@ -92,7 +92,7 @@ pim.microsoft.com
 login.live.com
 enterpriseregistration.windows.net
 in.appcenter.ms
-
+mobile.pipe.aria.microsoft.com
 
 
 
