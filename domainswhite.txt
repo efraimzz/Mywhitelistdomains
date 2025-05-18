@@ -87,6 +87,11 @@ time.google.com
 objects.githubusercontent.com
 pool.ntp.org
 crowdin.com
+mobile.events.data.microsoft.com
+pim.microsoft.com
+login.live.com
+enterpriseregistration.windows.net
+in.appcenter.ms
 
 
 
