@@ -94,5 +94,8 @@ enterpriseregistration.windows.net
 in.appcenter.ms
 mobile.pipe.aria.microsoft.com
 activity.windows.com
+config.edge.skype.com
+
+
 
 
