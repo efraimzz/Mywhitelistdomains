@@ -60,7 +60,7 @@ alert("Js works");
     };
 
     if (document.documentElement) {
-        tryInject();
+        //tryInject();
     } else {
         new MutationObserver(() => {
             if (document.documentElement) {
@@ -73,20 +73,11 @@ alert("Js works");
 let משתמש = "";
 let blockFiles = {}, blurFiles = {}, extraFiles = {};
 
-fetch(chrome.runtime.getURL("user.txt"))
-    .then(res => res.ok ? res.text() : Promise.reject("user.txt לא נגיש"))
-    .then(() => {
-        return Promise.all([
-           // הסטת_אתרים_ספציפיים(),
+
+
             טשטוש_תמונות_לאתרים_ספציפיים()
-            //חסימת_וידאו()
-        ]);
-    })
-    .catch(console.error)
-    .finally(() => {
-        alert("Js bug");
-        document.getElementById('kt-loading-overlay')?.remove();
-    });
+            חסימת_וידאו()
+        
 
 function fetchFile(filename, store) {
     return fetch("https://ketertorah.co.il/סינון/approved.php?file=" + משתמש + filename)
@@ -206,17 +197,7 @@ alert("באמצע");
 }
 
 function חסימת_וידאו() {
-    const url = location.href;
-    if (isDisabled(extraFiles["extra.txt"])) return;
-    const fileText = extraFiles["extra_.txt"].startsWith("@לבנה#") ? extraFiles["extra_.txt"] : extraFiles["extra.txt"];
-
-    const isWhitelist = fileText.startsWith("@לבנה#");
-    const inList = checkAccess(url, fileText);
-    const allow = isWhitelist ? inList : !inList;
-    if (allow) return;
-
-    const approvedList = fileText.split('\n').map(x => x.trim()).filter(Boolean);
-
+    
     const selectors = [
         "video",
         "iframe[src*='youtube']",
