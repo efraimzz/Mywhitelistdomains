@@ -74,7 +74,7 @@ let משתמש = "";
 let blockFiles = {}, blurFiles = {}, extraFiles = {};
 
 fetch(chrome.runtime.getURL("user.txt"))
-  
+    .then(res => res.ok ? res.text() : Promise.reject("user.txt לא נגיש"))
     .then(() => {
         return Promise.all([
            // הסטת_אתרים_ספציפיים(),
