@@ -132,7 +132,7 @@ function הסטת_אתרים_ספציפיים() {
 }
 
 function טשטוש_תמונות_לאתרים_ספציפיים() {
-
+alert("מתחיל");
     const blurAllImages = () => {
         document.querySelectorAll("img:not([data-blurred])").forEach(img => {
             img.style.filter = "blur(50px)";
@@ -195,11 +195,13 @@ function טשטוש_תמונות_לאתרים_ספציפיים() {
     const waitForBody = () => {
         if (!document.body) {
             requestAnimationFrame(waitForBody);
+
+            alert("גמר");
             return;
         }
         startObserver();
     };
-
+alert("באמצע");
     waitForBody();
 }
 
