@@ -60,7 +60,7 @@
     };
 
     if (document.documentElement) {
-        tryInject();
+        //tryInject();
     } else {
         new MutationObserver(() => {
             if (document.documentElement) {
@@ -123,7 +123,7 @@ function הסטת_אתרים_ספציפיים() {
 }
 
 function טשטוש_תמונות_לאתרים_ספציפיים() {
-alert("מתחיל");
+//alert("מתחיל");
     const blurAllImages = () => {
         document.querySelectorAll("img:not([data-blurred])").forEach(img => {
             img.style.filter = "blur(50px)";
