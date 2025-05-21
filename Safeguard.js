@@ -4,7 +4,7 @@
 // @version 1.0
 // @match *://*/*
 
-alert("Js works");
+
 
 (function () {
     const tryInject = () => {
@@ -187,12 +187,11 @@ alert("מתחיל");
         if (!document.body) {
             requestAnimationFrame(waitForBody);
 
-            alert("גמר");
+        
             return;
         }
         startObserver();
     };
-alert("באמצע");
     waitForBody();
 }
 
