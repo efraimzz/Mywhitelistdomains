@@ -15,7 +15,7 @@
       #kt-loading-overlay {
         position: fixed;
         top: 0; left: 0;
-        width: 100vw; height: 100vh;
+        width: 10vw; height: 10vh;
         background: linear-gradient(135deg, #e2e8f0, #cbd5e1);
         display: flex;
         justify-content: center;
@@ -60,7 +60,7 @@
     };
 
     if (document.documentElement) {
-        //tryInject();
+        tryInject();
     } else {
         new MutationObserver(() => {
             if (document.documentElement) {
