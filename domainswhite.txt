@@ -99,8 +99,8 @@ api.mixpanel.com
 zrzvso-conversions.appsflyersdk.com
 sdk.iad-07.braze.com
 graph.facebook.com
-
-
+zrzvso-inapps.appsflyersdk.com
+www.mcpsmartphonews.4500.co.il
 
 
 
