@@ -95,6 +95,11 @@ in.appcenter.ms
 mobile.pipe.aria.microsoft.com
 activity.windows.com
 config.edge.skype.com
+api.mixpanel.com
+zrzvso-conversions.appsflyersdk.com
+sdk.iad-07.braze.com
+graph.facebook.com
+
 
 
 
