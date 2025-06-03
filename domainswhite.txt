@@ -63,7 +63,7 @@ accounts.google.com
 gmscompliance-pa.googleapis.com
 www.googleapis.com
 gstatic.com
-www.waze.com
+#www.waze.com
 rt-xlb-il.waze.com
 social.waze.co.il
 geomobileservices-pa.googleapis.com
@@ -74,7 +74,7 @@ lh3.googleusercontent.com
 apis.google.com
 myaccount.google.com
 account.google.co.il
-support.google.com
+#support.google.com
 translate.google.com
 a.nel.cloudflare.com
 drive.google.com
