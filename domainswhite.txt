@@ -104,3 +104,11 @@ www.mcpsmartphonews.4500.co.il
 flagcdn.com
 mobile.pango.co.il
 kcm.fm
+time.android.com
+productionresultssa6.blob.core.windows.net
+api.revenuecat.com
+m.stripe.com
+q.stripe.com
+jewishmusic.fm
+clients2.google.com
+
