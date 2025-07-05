@@ -61,7 +61,6 @@ people-pa.googleapis.com
 mtalk.google.com
 accounts.google.com
 gmscompliance-pa.googleapis.com
-www.googleapis.com
 gstatic.com
 #www.waze.com
 rt-xlb-il.waze.com
