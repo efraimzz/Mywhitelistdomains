@@ -126,3 +126,6 @@ us-central1-yedidim-platform.cloudfunctions.net
 firebaseappcheck.googleapis.com
 firebasestorage.googleapis.com
 objects-origin.githubusercontent.com
+weatherapi.intl.xiaomi.com
+t2.market.mi-img.com
+f4.market.xiaomi.com
