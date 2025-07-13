@@ -129,3 +129,15 @@ objects-origin.githubusercontent.com
 weatherapi.intl.xiaomi.com
 t2.market.mi-img.com
 f4.market.xiaomi.com
+speechs3proto2-pa.googleapis.com
+notifications-pa.googleapis.com
+nearbysharing-pa.googleapis.com
+android.googleapis.com
+translate-pa.googleapis.com
+accountsettingsmobile-pa.googleapis.com
+chromesyncpasswords-pa.googleapis.com
+lamssettings-pa.googleapis.com
+androidpay-users-pa.googleapis.com
+scone-pa.googleapis.com
+feedback-pa.googleapis.com
+families.google.com
