@@ -141,3 +141,7 @@ androidpay-users-pa.googleapis.com
 scone-pa.googleapis.com
 feedback-pa.googleapis.com
 families.google.com
+mishnatyosef.org
+sefaria.org.il
+siddur-klilat-yofi.firebaseio.com
+
