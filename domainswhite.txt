@@ -170,3 +170,4 @@ yemot.co.il
 apiforum.yemot.tel
 userlocation.googleapis.com
 rechavimzelaze.ovh
+dexter.waze.com
