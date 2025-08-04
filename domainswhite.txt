@@ -112,7 +112,6 @@ www.matara.pro
 firebaseinappmessaging.googleapis.com
 o4506093905051648.ingest.us.sentry.io
 securetoken.googleapis.com
-lh3.googleusercontent.com
 api.stripe.com
 api.revenuecat.com
 m.stripe.com
