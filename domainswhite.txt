@@ -119,7 +119,7 @@ m.stripe.com
 q.stripe.com
 jewishmusic.fm
 api.shorebird.dev
-o4506032500113408.ingest.sentry.io
+#o4506032500113408.ingest.sentry.io
 api-yedidim.startach.io
 functions-yedidim.startach.io
 us-central1-yedidim-platform.cloudfunctions.net
