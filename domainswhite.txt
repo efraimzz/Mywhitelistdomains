@@ -175,3 +175,7 @@ drivefrontend-pa.clients6.google.com
 clients6.google.com
 lh3.google.com
 chat.google.com
+tts-assets.voice.waze.com
+zrzvso-cdn-settings.appsflyersdk.com
+zrzvso-dlsdk.appsflyersdk.com
+zrzvso-gcdsdk.appsflyersdk.com
