@@ -23,6 +23,7 @@ csi.gstatic.com
 fonts.gstatic.com
 people-pa.clients6.google.com
 drivefrontend-pa.clients6.google.com
+eur.loki.delve.office.com
 
 
 
