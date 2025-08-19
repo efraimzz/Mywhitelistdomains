@@ -17,7 +17,7 @@ googletagmanager.com
 camo.githubusercontent.com
 firebaseinstallations.googleapis.com
 clientservices.googleapis.com
-content-autofill.googleapis.com
+#content-autofill.googleapis.com
 mitmachim.top
 rechavimzelaze.ovh
 fonts.googleapis.com
@@ -173,7 +173,6 @@ oss.iot.dreame.tech
 dreame-cn.oss-accelerate.aliyuncs.com
 zoom.us
 recaptcha.net
-content-autofill.googleapis.com
 outlook.office365.com
 outlook.office.com
 login.microsoftonline.com
