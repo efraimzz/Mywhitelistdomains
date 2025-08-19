@@ -64,7 +64,7 @@ geomobileservices-pa.googleapis.com
 infinitedata-pa.googleapis.com
 locationhistory-pa.googleapis.com
 instantmessaging-pa.googleapis.com
-#speechs3proto2-pa.googleapis.com
+speechs3proto2-pa.googleapis.com
 notifications-pa.googleapis.com
 nearbysharing-pa.googleapis.com
 translate-pa.googleapis.com
