@@ -197,3 +197,8 @@ zoom-privacy.my.onetrust.com
 ashmoret-itu.co.il
 api.onesignal.com
 mobileappcommunicator.auth.microsoft.com
+mobilemaps-pa-gz.googleapis.com
+mobilemaps.googleapis.com
+geller-pa.googleapis.com
+streetviewpixels-pa.googleapis.com
+peoplestack-pa.googleapis.com
