@@ -76,7 +76,7 @@ scone-pa.googleapis.com
 feedback-pa.googleapis.com
 voilatile-pa.googleapis.com
 mail-attachment.googleusercontent.com
-lh3.googleusercontent.com
+#lh3.googleusercontent.com
 clients2.google.com
 families.google.com
 clients6.google.com
@@ -202,3 +202,5 @@ mobilemaps.googleapis.com
 geller-pa.googleapis.com
 streetviewpixels-pa.googleapis.com
 peoplestack-pa.googleapis.com
+drivefrontend-pa.clients6.google.com
+ivelt.com
