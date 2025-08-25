@@ -8,6 +8,7 @@ github.com
 github.dev
 localhost
 github.githubassets.com
+release-assets.githubusercontent.com
 raw.githubusercontent.com
 topjohnwu.github.io
 avatars.githubusercontent.com
@@ -217,3 +218,5 @@ images-prod.pango.co.il
 iamcache.braze
 pps.creditguard.co.il
 digitalassetlinks.googleapis.com
+kh.google.com
+storage.googleapis.com
