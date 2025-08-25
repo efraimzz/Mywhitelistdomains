@@ -214,3 +214,4 @@ android.apis.google.com
 braze-images.com
 images-prod.pango.co.il
 iamcache.braze
+pps.creditguard.co.il
