@@ -75,6 +75,7 @@ androidpay-users-pa.googleapis.com
 scone-pa.googleapis.com
 feedback-pa.googleapis.com
 voilatile-pa.googleapis.com
+crashlyticsreports-pa.googleapis.com
 mail-attachment.googleusercontent.com
 clients2.google.com
 families.google.com
