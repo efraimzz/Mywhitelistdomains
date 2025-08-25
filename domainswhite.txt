@@ -8,6 +8,7 @@ github.com
 github.dev
 localhost
 github.githubassets.com
+release-assets.githubusercontent.com
 raw.githubusercontent.com
 topjohnwu.github.io
 avatars.githubusercontent.com
