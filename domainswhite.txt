@@ -218,3 +218,4 @@ iamcache.braze
 pps.creditguard.co.il
 digitalassetlinks.googleapis.com
 kh.google.com
+storage.googleapis.com
