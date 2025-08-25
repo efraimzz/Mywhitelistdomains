@@ -207,3 +207,4 @@ iphone.bankhapoalim.co.il
 static.bankhapoalim.co.il
 api.internal.netfree.link
 challenges.cloudflare.com
+zrzvso-launches.appsflyersdk.com
