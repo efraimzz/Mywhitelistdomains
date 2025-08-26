@@ -221,5 +221,5 @@ digitalassetlinks.googleapis.com
 kh.google.com
 storage.googleapis.com
 dapi.paz.co.il
-
-
+ws-eu.pusher.com
+mobile-collector.newrelic.com
