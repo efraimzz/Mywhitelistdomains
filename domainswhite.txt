@@ -157,6 +157,7 @@ global-attractions.moovit.com
 updates.moovit.com
 static-updates.moovit.com
 appassets.mvtdev.com
+static.addtoany.com
 cdn.cookielaw.org
 static.zdassets.com
 clientauthconfig.googleapis.com
