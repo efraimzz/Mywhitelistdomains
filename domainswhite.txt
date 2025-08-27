@@ -156,6 +156,7 @@ static-main.moovit.com
 global-attractions.moovit.com
 updates.moovit.com
 static-updates.moovit.com
+appassets.mvtdev.com
 static.zdassets.com
 clientauthconfig.googleapis.com
 cloudconfig.googleapis.com
