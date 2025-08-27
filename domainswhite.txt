@@ -153,6 +153,7 @@ app4cdn.moovitapp.com
 moovitapp.zendesk.com
 support.moovitapp.com
 static-main.moovit.com
+global-attractions.moovit.com
 clientauthconfig.googleapis.com
 cloudconfig.googleapis.com
 firestore.googleapis.com
@@ -165,8 +166,6 @@ f2.freeivr.co.il
 yemot.co.il
 apiforum.yemot.tel
 userlocation.googleapis.com
-zrzvso-dlsdk.appsflyersdk.com
-zrzvso-gcdsdk.appsflyersdk.com
 public.iot-as-mqtt.ap-southeast-1.aliyuncs.com
 living-account.ap-southeast-1.aliyuncs.com
 ap-southeast-1.api-iot.aliyuncs.com
@@ -225,7 +224,4 @@ storage.googleapis.com
 dapi.paz.co.il
 ws-eu.pusher.com
 mobile-collector.newrelic.com
-inapps.appsflyersdk.com
-launches.appsflyersdk.com
-conversions.appsflyersdk.com
-cdn-settings.appsflyersdk.com
+appsflyersdk.com

@@ -28,4 +28,9 @@ zrzvso-launches.appsflyersdk.com
 zrzvso-inapps.appsflyersdk.com
 zrzvso-conversions.appsflyersdk.com
 zrzvso-cdn-settings.appsflyersdk.com
-
+inapps.appsflyersdk.com
+launches.appsflyersdk.com
+conversions.appsflyersdk.com
+cdn-settings.appsflyersdk.com
+zrzvso-dlsdk.appsflyersdk.com
+zrzvso-gcdsdk.appsflyersdk.com
