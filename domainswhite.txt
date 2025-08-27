@@ -151,6 +151,7 @@ app4.moovitapp.com
 app5.moovitapp.com
 app4cdn.moovitapp.com
 moovitapp.zendesk.com
+support.moovitapp.com
 clientauthconfig.googleapis.com
 cloudconfig.googleapis.com
 firestore.googleapis.com
