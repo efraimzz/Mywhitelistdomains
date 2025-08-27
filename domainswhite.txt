@@ -147,6 +147,9 @@ firebaselogging.googleapis.com
 siddur-klilat-yofi.firebaseio.com
 anonymousstream.moovitapp.com
 static.moovitapp.com
+app4.moovitapp.com
+app5.moovitapp.com
+app4cdn.moovitapp.com
 clientauthconfig.googleapis.com
 cloudconfig.googleapis.com
 firestore.googleapis.com
