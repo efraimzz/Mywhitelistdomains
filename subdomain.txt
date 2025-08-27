@@ -24,6 +24,8 @@ fonts.gstatic.com
 people-pa.clients6.google.com
 drivefrontend-pa.clients6.google.com
 eur.loki.delve.office.com
-
-
+zrzvso-launches.appsflyersdk.com
+zrzvso-inapps.appsflyersdk.com
+zrzvso-conversions.appsflyersdk.com
+zrzvso-cdn-settings.appsflyersdk.com
 
