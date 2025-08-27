@@ -156,6 +156,7 @@ static-main.moovit.com
 global-attractions.moovit.com
 updates.moovit.com
 static-updates.moovit.com
+stop-imgs.moovitapp.com
 appassets.mvtdev.com
 static.addtoany.com
 cdn.cookielaw.org
