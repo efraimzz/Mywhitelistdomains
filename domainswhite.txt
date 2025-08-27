@@ -159,6 +159,7 @@ static-updates.moovit.com
 appassets.mvtdev.com
 static.addtoany.com
 cdn.cookielaw.org
+ajax.googleapis.com
 static.zdassets.com
 clientauthconfig.googleapis.com
 cloudconfig.googleapis.com
