@@ -74,6 +74,7 @@ feedback-pa.googleapis.com
 voilatile-pa.googleapis.com
 crashlyticsreports-pa.googleapis.com
 earth-pa.googleapis.com
+mapsmobilesdks-pa.googleapis.com
 mail-attachment.googleusercontent.com
 clients2.google.com
 families.google.com
@@ -110,10 +111,8 @@ mobile.pipe.aria.microsoft.com
 activity.windows.com
 config.edge.skype.com
 api.mixpanel.com
-zrzvso-conversions.appsflyersdk.com
 sdk.iad-07.braze.com
 graph.facebook.com
-zrzvso-inapps.appsflyersdk.com
 flagcdn.com
 mobile.pango.co.il
 kcm.fm
@@ -149,6 +148,21 @@ firebaselogging.googleapis.com
 siddur-klilat-yofi.firebaseio.com
 anonymousstream.moovitapp.com
 static.moovitapp.com
+app4.moovitapp.com
+app5.moovitapp.com
+app4cdn.moovitapp.com
+moovitapp.zendesk.com
+support.moovitapp.com
+static-main.moovit.com
+global-attractions.moovit.com
+updates.moovit.com
+static-updates.moovit.com
+stop-imgs.moovitapp.com
+appassets.mvtdev.com
+static.addtoany.com
+cdn.cookielaw.org
+ajax.googleapis.com
+static.zdassets.com
 clientauthconfig.googleapis.com
 cloudconfig.googleapis.com
 firestore.googleapis.com
@@ -161,9 +175,6 @@ f2.freeivr.co.il
 yemot.co.il
 apiforum.yemot.tel
 userlocation.googleapis.com
-zrzvso-cdn-settings.appsflyersdk.com
-zrzvso-dlsdk.appsflyersdk.com
-zrzvso-gcdsdk.appsflyersdk.com
 public.iot-as-mqtt.ap-southeast-1.aliyuncs.com
 living-account.ap-southeast-1.aliyuncs.com
 ap-southeast-1.api-iot.aliyuncs.com
@@ -210,7 +221,6 @@ iphone.bankhapoalim.co.il
 static.bankhapoalim.co.il
 api.internal.netfree.link
 challenges.cloudflare.com
-zrzvso-launches.appsflyersdk.com
 mcpsmartphonews.4500.co.il
 android.apis.google.com
 braze-images.com
@@ -220,3 +230,7 @@ pps.creditguard.co.il
 digitalassetlinks.googleapis.com
 kh.google.com
 storage.googleapis.com
+dapi.paz.co.il
+ws-eu.pusher.com
+mobile-collector.newrelic.com
+appsflyersdk.com
