@@ -243,3 +243,7 @@ stream.jewishmusicstream.com
 mapbox.com
 playatoms-pa.googleapis.com
 googleapis.com
+ravkavonline.co.il
+bit.bankhapoalim.co.il
+apps.fibi.co.il
+online.pagi.co.il
