@@ -110,7 +110,7 @@ in.appcenter.ms
 mobile.pipe.aria.microsoft.com
 activity.windows.com
 config.edge.skype.com
-api.mixpanel.com
+mixpanel.com
 sdk.iad-07.braze.com
 graph.facebook.com
 flagcdn.com
@@ -234,3 +234,15 @@ dapi.paz.co.il
 ws-eu.pusher.com
 mobile-collector.newrelic.com
 appsflyersdk.com
+ko-fi.com
+kol-play.co.il
+fliphtml5.com
+fuse-box.info
+media2.93fm.co.il
+stream.jewishmusicstream.com
+mapbox.com
+playatoms-pa.googleapis.com
+ravkavonline.co.il
+bit.bankhapoalim.co.il
+apps.fibi.co.il
+online.pagi.co.il

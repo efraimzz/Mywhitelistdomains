@@ -45,7 +45,6 @@ firebaseappcheck.googleapis.com
 firebasestorage.googleapis.com
 firebaselogging.googleapis.com
 playatoms-pa.googleapis.com
-googleapis.com
 ravkavonline.co.il
 android.apis.google.com
 mapsmobilesdks-pa.googleapis.com

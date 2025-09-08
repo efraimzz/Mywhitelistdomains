@@ -242,7 +242,6 @@ media2.93fm.co.il
 stream.jewishmusicstream.com
 mapbox.com
 playatoms-pa.googleapis.com
-googleapis.com
 ravkavonline.co.il
 bit.bankhapoalim.co.il
 apps.fibi.co.il
