@@ -247,3 +247,4 @@ bit.bankhapoalim.co.il
 apps.fibi.co.il
 online.pagi.co.il
 semanticlocation-pa.googleapis.com
+deviceintegritytokens-pa.googleapis.com
