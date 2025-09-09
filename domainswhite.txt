@@ -258,4 +258,5 @@ ravkavonline.co.il
 bit.bankhapoalim.co.il
 apps.fibi.co.il
 online.pagi.co.il
-
+productionresultssa13.blob.core.windows.net
+productionresultssa5.blob.core.windows.net
