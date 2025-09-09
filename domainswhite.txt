@@ -260,3 +260,4 @@ apps.fibi.co.il
 online.pagi.co.il
 productionresultssa13.blob.core.windows.net
 productionresultssa5.blob.core.windows.net
+people-pa.clients6.google.com
