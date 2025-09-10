@@ -41,12 +41,10 @@ semanticlocation-pa.googleapis.com
 deviceintegritytokens-pa.googleapis.com
 locationhistoryaggregates-pa.googleapis.com
 *.gstatic.com
-gstatic.com
 time.android.com
 #github
 *.github.com
 *.github.dev
-github.dev
 github.githubassets.com
 release-assets.githubusercontent.com
 raw.githubusercontent.com
@@ -70,7 +68,6 @@ www.matara.pro
 send.magicode.me
 maxcdn.bootstrapcdn.com
 *.google-analytics.com
-google-analytics.com
 search.arin.net
 app-measurement.com
 sfepodownload.mediatek.com
@@ -270,6 +267,4 @@ google-ohttp-relay-safebrowsing.fastly-edge.com
 smtp.gmail.com
 googleapis.com
 *.yiddish24.com
-yiddish24.com
 *.y24.app
-y24.app
