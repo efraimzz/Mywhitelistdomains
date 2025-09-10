@@ -40,11 +40,11 @@ mapsmobilesdks-pa.googleapis.com
 semanticlocation-pa.googleapis.com
 deviceintegritytokens-pa.googleapis.com
 locationhistoryaggregates-pa.googleapis.com
-gstatic.com
+*.gstatic.com
 time.android.com
 #github
-github.com
-github.dev
+*.github.com
+*.github.dev
 github.githubassets.com
 release-assets.githubusercontent.com
 raw.githubusercontent.com
@@ -265,3 +265,4 @@ r84xfze0jl.execute-api.eu-west-1.amazonaws.com
 app.pango.co.il
 google-ohttp-relay-safebrowsing.fastly-edge.com
 smtp.gmail.com
+googleapis.com
