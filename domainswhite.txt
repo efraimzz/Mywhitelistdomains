@@ -269,3 +269,4 @@ app.pango.co.il
 google-ohttp-relay-safebrowsing.fastly-edge.com
 smtp.gmail.com
 googleapis.com
+yiddish24.com
