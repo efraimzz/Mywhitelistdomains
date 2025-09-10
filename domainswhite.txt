@@ -261,3 +261,5 @@ online.pagi.co.il
 productionresultssa13.blob.core.windows.net
 productionresultssa5.blob.core.windows.net
 people-pa.clients6.google.com
+r84xfze0jl.execute-api.eu-west-1.amazonaws.com
+app.pango.co.il
