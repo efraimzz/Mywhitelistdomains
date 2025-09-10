@@ -70,7 +70,8 @@ sefaria.org.il
 www.matara.pro
 send.magicode.me
 maxcdn.bootstrapcdn.com
-www.google-analytics.com
+*.google-analytics.com
+google-analytics.com
 search.arin.net
 app-measurement.com
 sfepodownload.mediatek.com
