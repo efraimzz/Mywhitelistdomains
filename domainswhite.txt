@@ -270,3 +270,4 @@ googleapis.com
 *.y24.app
 rgepodownload.mediatek.com
 footprints-pa.googleapis.com
+securitydomain-pa.googleapis.com
