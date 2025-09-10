@@ -45,7 +45,6 @@ gstatic.com
 time.android.com
 #github
 *.github.com
-github.com
 *.github.dev
 github.dev
 github.githubassets.com
