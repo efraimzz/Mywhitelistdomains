@@ -118,7 +118,7 @@ a.nel.cloudflare.com
 objects.githubusercontent.com
 pool.ntp.org
 crowdin.com
-mixpanel.com
+*.mixpanel.com
 sdk.iad-07.braze.com
 graph.facebook.com
 flagcdn.com
@@ -248,7 +248,7 @@ storage.googleapis.com
 dapi.paz.co.il
 ws-eu.pusher.com
 mobile-collector.newrelic.com
-appsflyersdk.com
+*.appsflyersdk.com
 ko-fi.com
 fliphtml5.com
 fuse-box.info
@@ -268,3 +268,5 @@ smtp.gmail.com
 googleapis.com
 *.yiddish24.com
 *.y24.app
+rgepodownload.mediatek.com
+footprints-pa.googleapis.com

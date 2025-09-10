@@ -9,7 +9,7 @@ clientservices.googleapis.com
 content-autofill.googleapis.com
 fonts.googleapis.com
 maxcdn.bootstrapcdn.com
-www.google-analytics.com
+*.google-analytics.com
 search.arin.net
 app-measurement.com
 sfepodownload.mediatek.com
@@ -36,7 +36,7 @@ rt-xlb-il.waze.com
 sgepodownload.mediatek.com
 cdn.ampproject.org
 update.googleapis.com
-gstatic.com
+*.gstatic.com
 social.waze.co.il
 optimizationguide-pa.googleapis.com
 taskassist-pa.googleapis.com
@@ -160,3 +160,4 @@ playatoms-pa.googleapis.com
 semanticlocation-pa.googleapis.com
 deviceintegritytokens-pa.googleapis.com
 locationhistoryaggregates-pa.googleapis.com
+googleapis.com
