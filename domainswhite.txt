@@ -41,10 +41,13 @@ semanticlocation-pa.googleapis.com
 deviceintegritytokens-pa.googleapis.com
 locationhistoryaggregates-pa.googleapis.com
 *.gstatic.com
+gstatic.com
 time.android.com
 #github
 *.github.com
+github.com
 *.github.dev
+github.dev
 github.githubassets.com
 release-assets.githubusercontent.com
 raw.githubusercontent.com
