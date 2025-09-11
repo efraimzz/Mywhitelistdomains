@@ -1,5 +1,7 @@
 # Mywhitelistdomains
 
 don't open
-googleapis.com// all Google apps
-googleusercontent.com// all Google image's
+wildcard option //new...
+*.googleapis.com// all Google apps
+*.googleusercontent.com// all Google image's
+(only plane googleapis.com without wildcard!)

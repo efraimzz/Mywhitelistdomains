@@ -1,4 +1,5 @@
 #apis
+localhost
 beacons2.gvt2.com
 beacons.gvt2.com
 beacons.gvt4.com
@@ -9,7 +10,6 @@ clients2.google.com
 clients4.google.com
 families.google.com
 clients6.google.com
-localhost
 update.googleapis.com
 clientservices.googleapis.com
 content-autofill.googleapis.com
@@ -60,6 +60,8 @@ mtalk.google.com
 ivelt.com
 mitmachim.top
 rechavimzelaze.ovh
+*.yiddish24.com
+*.y24.app
 #web
 recaptcha.net
 mishnatyosef.org
@@ -125,7 +127,7 @@ flagcdn.com
 mobile.pango.co.il
 #music
 jewishmusic.fm
-kcm.fm
+*.kcm.fm
 kol-play.co.il
 media2.93fm.co.il
 stream.jewishmusicstream.com
@@ -178,9 +180,9 @@ api.weather.com
 collect.ureca-lab.com
 agw.paz.co.il
 lbpub.paz.co.il
-call2all.co.il
+*.call2all.co.il
 f2.freeivr.co.il
-yemot.co.il
+*.yemot.co.il
 apiforum.yemot.tel
 userlocation.googleapis.com
 public.iot-as-mqtt.ap-southeast-1.aliyuncs.com
@@ -192,7 +194,7 @@ analytics.oceanengine.com
 cn-shanghai.api-iot.aliyuncs.com
 oss.iot.dreame.tech
 dreame-cn.oss-accelerate.aliyuncs.com
-zoom.us
+*.zoom.us
 #microsoft
 mobile.events.data.microsoft.com
 pim.microsoft.com
@@ -214,7 +216,7 @@ eu-mobile.events.data.microsoft.com
 officeclient.microsoft.com
 odc.officeapps.live.com
 substrate.office.com
-loki.delve.office.com
+*.loki.delve.office.com
 res.cdn.office.net
 storage.pardot.com
 eur06.safelinks.protection.outlook.com
@@ -256,7 +258,7 @@ mapbox.com
 playatoms-pa.googleapis.com
 ravkavonline.co.il
 bit.bankhapoalim.co.il
-apps.fibi.co.il
+*.fibi.co.il
 online.pagi.co.il
 productionresultssa13.blob.core.windows.net
 productionresultssa5.blob.core.windows.net
@@ -266,8 +268,17 @@ app.pango.co.il
 google-ohttp-relay-safebrowsing.fastly-edge.com
 smtp.gmail.com
 googleapis.com
-*.yiddish24.com
-*.y24.app
 rgepodownload.mediatek.com
 footprints-pa.googleapis.com
 securitydomain-pa.googleapis.com
+cryptauthenrollment.googleapis.com
+collect-eu.riskid.security
+*.applvn.com
+*.applovin.com
+configure-tcp-android.mtgglobals.com
+*.rayjump.com
+*.pangle.io
+data.eu.pendo.io
+mobile-sdk-lib-eu-1.brilliantcollector.com
+app.mobile.me.app
+fundingchoicesmessages.google.com
