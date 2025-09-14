@@ -65,6 +65,7 @@ rechavimzelaze.ovh
 #web
 *.kolhalashon.com
 chatrace.com
+js.nagich.co.il
 recaptcha.net
 mishnatyosef.org
 sefaria.org.il
