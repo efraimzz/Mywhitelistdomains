@@ -2,6 +2,7 @@
 
 
 #webs
+*.kolhalashon.com
 recaptcha.net
 mishnatyosef.org
 sefaria.org.il
