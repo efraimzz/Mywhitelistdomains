@@ -63,6 +63,7 @@ rechavimzelaze.ovh
 *.yiddish24.com
 *.y24.app
 #web
+*.kolhalashon.com
 recaptcha.net
 mishnatyosef.org
 sefaria.org.il
