@@ -293,8 +293,9 @@ fundingchoicesmessages.google.com
 calendarpushsubscription-pa.googleapis.com
 tasks-pa.googleapis.com
 calendarsync-pa.googleapis.com
+#outlook mail
 logincdn.msftauth.net
 lgincdnmsftuswe2.azureedge.net
 js.monitor.azure.com
 
-
+weather.car.dofuncar.com
