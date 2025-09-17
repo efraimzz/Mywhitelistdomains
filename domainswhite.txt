@@ -6,10 +6,12 @@ beacons.gvt4.com
 beacons.gcp.gvt2.com
 beacons5.gvt2.com
 beacons3.gvt2.com
+clients1.google.com
 clients2.google.com
+clients3.google.com
 clients4.google.com
-families.google.com
 clients6.google.com
+families.google.com
 update.googleapis.com
 clientservices.googleapis.com
 content-autofill.googleapis.com
@@ -100,6 +102,9 @@ rt-xlb-il.waze.com
 sgepodownload.mediatek.com
 cdn.ampproject.org
 social.waze.co.il
+wag-il.waze.com
+rtproxy-il-ipv6.waze.com
+ctilesgcs-il-ipv6.waze.com
 #mail
 mail-attachment.googleusercontent.com
 lh3.google.com
@@ -285,3 +290,11 @@ data.eu.pendo.io
 mobile-sdk-lib-eu-1.brilliantcollector.com
 app.mobile.me.app
 fundingchoicesmessages.google.com
+calendarpushsubscription-pa.googleapis.com
+tasks-pa.googleapis.com
+calendarsync-pa.googleapis.com
+logincdn.msftauth.net
+lgincdnmsftuswe2.azureedge.net
+js.monitor.azure.com
+
+
