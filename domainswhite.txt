@@ -302,3 +302,10 @@ weather.car.dofuncar.com
 
 #zing
 *.podbean.com
+anchor.fm
+traffic.megaphone.fm
+static.libsyn.com
+traffic.libsyn.com
+*.buzzsprout.com
+records.jewishpodcasts.fm
+artwork.captivate.fm
