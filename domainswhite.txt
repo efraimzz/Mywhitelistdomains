@@ -308,6 +308,6 @@ static.libsyn.com
 traffic.libsyn.com
 *.buzzsprout.com
 records.jewishpodcasts.fm
-artwork.captivate.fm
+*.captivate.fm
 *.torah-box.com
 zerem.biz
