@@ -299,3 +299,7 @@ lgincdnmsftuswe2.azureedge.net
 js.monitor.azure.com
 
 weather.car.dofuncar.com
+
+#zing
+mcdn.podbean.com
+pbcdn1.podbean.com
