@@ -310,3 +310,4 @@ traffic.libsyn.com
 records.jewishpodcasts.fm
 artwork.captivate.fm
 *.torah-box.com
+zerem.biz
