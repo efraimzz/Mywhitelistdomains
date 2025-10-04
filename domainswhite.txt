@@ -301,13 +301,13 @@ js.monitor.azure.com
 weather.car.dofuncar.com
 
 #zing
-*.podbean.com
-anchor.fm
-*.megaphone.fm
-static.libsyn.com
-traffic.libsyn.com
-*.buzzsprout.com
+#*.podbean.com
+#anchor.fm
+#*.megaphone.fm
+#static.libsyn.com
+#traffic.libsyn.com
+#*.buzzsprout.com
+#*.captivate.fm
 records.jewishpodcasts.fm
-*.captivate.fm
 *.torah-box.com
 zerem.biz
