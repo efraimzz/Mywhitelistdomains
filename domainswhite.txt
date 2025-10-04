@@ -301,7 +301,4 @@ js.monitor.azure.com
 weather.car.dofuncar.com
 
 #zing
-mcdn.podbean.com
-pbcdn1.podbean.com
-s342.podbean.com
-s386.podbean.com
+*.podbean.com
