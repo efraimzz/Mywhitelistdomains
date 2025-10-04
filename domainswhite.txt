@@ -303,7 +303,7 @@ weather.car.dofuncar.com
 #zing
 *.podbean.com
 anchor.fm
-traffic.megaphone.fm
+*.megaphone.fm
 static.libsyn.com
 traffic.libsyn.com
 *.buzzsprout.com
