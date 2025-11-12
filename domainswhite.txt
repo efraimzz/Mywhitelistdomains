@@ -343,5 +343,6 @@ drivefrontend-pa.googleapis.com
 subscriptionsmanagement-pa.googleapis.com
 firebaseremoteconfigrealtime.googleapis.com
 remoteprovisioning.googleapis.com
-cdn2.inner-active.mobi
 meetings.googleapis.com
+cdn2.inner-active.mobi
+sdk-events.inner-active.mobi
