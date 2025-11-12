@@ -24,6 +24,7 @@ gmscompliance-pa.googleapis.com
 geomobileservices-pa.googleapis.com
 infinitedata-pa.googleapis.com
 locationhistory-pa.googleapis.com
+locationhistoryplacedetails-pa.googleapis.com
 instantmessaging-pa.googleapis.com
 speechs3proto2-pa.googleapis.com
 notifications-pa.googleapis.com
@@ -42,6 +43,7 @@ mapsmobilesdks-pa.googleapis.com
 semanticlocation-pa.googleapis.com
 deviceintegritytokens-pa.googleapis.com
 locationhistoryaggregates-pa.googleapis.com
+safebrowsing.googleapis.com
 *.gstatic.com
 time.android.com
 #github
@@ -64,6 +66,7 @@ mitmachim.top
 rechavimzelaze.ovh
 *.yiddish24.com
 *.y24.app
+forums.jtechforums.org
 #web
 *.kolhalashon.com
 chatrace.com
@@ -311,3 +314,18 @@ weather.car.dofuncar.com
 records.jewishpodcasts.fm
 *.torah-box.com
 zerem.biz
+
+#bank
+#ecm.capitalone.com
+capitalone.com
+capitalone.smart.link
+onetms.capitalone.com
+verified.capitalone.com
+mboxedge34.tt.omtrdc.net
+uba.capitalone.com
+bfp.capitalone.com
+capitalone-resources.digital-cloud.medallia.com
+capitalone-analytics.digital-cloud.medallia.com
+smetrics.capitalone.com
+bam.nr-data.net
+d.agkn.com
