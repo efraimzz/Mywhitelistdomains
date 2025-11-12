@@ -81,6 +81,7 @@ maxcdn.bootstrapcdn.com
 search.arin.net
 app-measurement.com
 sfepodownload.mediatek.com
+r.zeitech.co.il
 #waze
 cresg.waze.com
 rt.waze.com
@@ -336,13 +337,11 @@ mobileconfiguration-pa.googleapis.com
 clienttracing-pa.googleapis.com
 android.clients.google.com
 instantmessaging-pa-jms-eu.googleapis.com
-r.zeitech.co.il
 
-calendarsync-pa.googleapis.com
-tasks-pa.googleapis.com
 subscriptionsfirstparty-pa.googleapis.com
 drivefrontend-pa.googleapis.com
 subscriptionsmanagement-pa.googleapis.com
-clienttracing-pa.googleapis.com
 firebaseremoteconfigrealtime.googleapis.com
 remoteprovisioning.googleapis.com
+cdn2.inner-active.mobi
+meetings.googleapis.com
