@@ -192,7 +192,7 @@ analytics.oceanengine.com
 cn-shanghai.api-iot.aliyuncs.com
 oss.iot.dreame.tech
 dreame-cn.oss-accelerate.aliyuncs.com
-zoom.us
+zoom.com
 #microsoft
 mobile.events.data.microsoft.com
 pim.microsoft.com
