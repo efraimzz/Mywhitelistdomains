@@ -364,3 +364,14 @@ signaler-pa.clients6.google.com
 ogads-pa.clients6.google.com
 phonedeviceverification-pa.googleapis.com
 addons-pa.googleapis.com
+nearbypresence-pa.googleapis.com
+
+mpg.max.co.il
+ct.max.co.il
+geotimezones.googleapis.com
+salmonf.max.co.il
+n3.fpconfig.net
+gb.leumi-card.co.il
+
+api.account.samsung.com
+vepodownload.mediatek.com
