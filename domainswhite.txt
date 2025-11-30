@@ -382,3 +382,7 @@ connect.cal-online.co.il
 css.cal-online.co.il
 accessability.cal-online.co.il
 readaloud.googleapis.com
+
+api-prod.hopon.co
+app.busnearby.co.il
+api.busnearby.co.il
