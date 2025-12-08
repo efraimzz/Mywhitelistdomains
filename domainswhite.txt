@@ -386,3 +386,5 @@ readaloud.googleapis.com
 api-prod.hopon.co
 app.busnearby.co.il
 api.busnearby.co.il
+
+chat.usercontent.google.com
