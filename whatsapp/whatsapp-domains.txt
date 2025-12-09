@@ -112,7 +112,7 @@ ctilesgcs-il-ipv6.waze.com
 #mail
 mail-attachment.googleusercontent.com
 lh3.google.com
-chat.google.com
+*.chat.google.com
 mail.google.com
 supl.google.com
 inbox.google.com
@@ -388,7 +388,6 @@ app.busnearby.co.il
 api.busnearby.co.il
 
 chat.usercontent.google.com
-*.chat.google.com
 
 #whatsapp
 g.whatsapp.net
