@@ -98,7 +98,7 @@ social.waze.co.il
 #mail
 mail-attachment.googleusercontent.com
 lh3.google.com
-chat.google.com
+*.chat.google.com
 mail.google.com
 supl.google.com
 inbox.google.com

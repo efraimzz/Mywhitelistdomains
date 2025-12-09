@@ -98,7 +98,7 @@ lh3.google.com
 mail.google.com
 supl.google.com
 inbox.google.com
-chat.google.com
+*.chat.google.com
 accounts.google.com
 apis.google.com
 myaccount.google.com
