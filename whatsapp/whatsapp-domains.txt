@@ -388,7 +388,7 @@ app.busnearby.co.il
 api.busnearby.co.il
 
 chat.usercontent.google.com
-*.c.chat.google.com
+*.chat.google.com
 
 #whatsapp
 g.whatsapp.net
