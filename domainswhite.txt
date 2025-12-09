@@ -388,3 +388,4 @@ app.busnearby.co.il
 api.busnearby.co.il
 
 chat.usercontent.google.com
+*.c.chat.google.com
