@@ -113,6 +113,7 @@ ctilesgcs-il-ipv6.waze.com
 mail-attachment.googleusercontent.com
 lh3.google.com
 *.chat.google.com
+chat.usercontent.google.com
 mail.google.com
 supl.google.com
 inbox.google.com
@@ -387,5 +388,4 @@ api-prod.hopon.co
 app.busnearby.co.il
 api.busnearby.co.il
 
-chat.usercontent.google.com
-
+cryptauthdevicesync.googleapis.com
