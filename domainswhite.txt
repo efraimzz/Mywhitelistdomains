@@ -389,3 +389,9 @@ app.busnearby.co.il
 api.busnearby.co.il
 
 cryptauthdevicesync.googleapis.com
+c.tile.openstreetmap.org
+photon.komoot.io
+gps.hakohanim.org
+a.tile.openstreetmap.org
+server.arcgisonline.com
+unpkg.com
