@@ -395,3 +395,8 @@ gps.hakohanim.org
 a.tile.openstreetmap.org
 server.arcgisonline.com
 unpkg.com
+
+restapi.dofuncar.com
+mqtt.car.dofuncar.com
+iotapi.abupdate.com
+android.pool.ntp.org
