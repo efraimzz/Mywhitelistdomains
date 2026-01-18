@@ -87,8 +87,9 @@ accounts.google.com
 apis.google.com
 myaccount.google.com
 time.google.com
-drive.usercontent.google.com
-drive-thirdparty.googleusercontent.com
+#drive.google.com
+#drive.usercontent.google.com
+#drive-thirdparty.googleusercontent.com
 apk.shnet.app
 account.google.co.il
 a.nel.cloudflare.com

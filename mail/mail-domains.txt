@@ -50,12 +50,12 @@ mtalk.google.com
 accounts.google.com
 apis.google.com
 myaccount.google.com
-drive.google.com
 docs.google.com
 script.google.com
 time.google.com
-drive.usercontent.google.com
-drive-thirdparty.googleusercontent.com
+#drive.google.com
+#drive.usercontent.google.com
+#drive-thirdparty.googleusercontent.com
 account.google.co.il
 pool.ntp.org
 firebaseinstallations.googleapis.com
