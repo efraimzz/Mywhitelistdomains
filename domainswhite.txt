@@ -400,3 +400,15 @@ restapi.dofuncar.com
 mqtt.car.dofuncar.com
 iotapi.abupdate.com
 android.pool.ntp.org
+
+#selopark
+mobile-collector.eu01.nr-data.net
+app.cellopark-il.com
+backoffice.cellopark-il.com
+gateway21.pelecard.biz
+cellopark.co.il
+code.jquery.com
+maps.googleapis.com
+cdn.celloapp.io
+cello-app.com
+cdn.jsdelivr.net
