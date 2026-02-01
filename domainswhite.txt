@@ -82,6 +82,7 @@ search.arin.net
 app-measurement.com
 sfepodownload.mediatek.com
 r.zeitech.co.il
+sales.org.il
 #waze
 cresg.waze.com
 rt.waze.com
