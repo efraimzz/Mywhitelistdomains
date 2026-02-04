@@ -251,6 +251,7 @@ drivefrontend-pa.clients6.google.com
 iphone.bankhapoalim.co.il
 static.bankhapoalim.co.il
 api.internal.netfree.link
+netfree.link
 challenges.cloudflare.com
 mcpsmartphonews.4500.co.il
 android.apis.google.com
