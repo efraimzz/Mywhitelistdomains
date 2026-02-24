@@ -414,3 +414,10 @@ maps.googleapis.com
 cdn.celloapp.io
 cello-app.com
 cdn.jsdelivr.net
+
+#jusic
+music-api.koshersvr.com
+api.ipify.org
+auth.koshersystem.com
+lomdaat-apps-odoo.ams3.cdn.digitaloceanspaces.com
+lomdaat-music.ams3.cdn.digitaloceanspaces.com
