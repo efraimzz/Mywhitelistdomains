@@ -72,6 +72,8 @@ forums.jtechforums.org
 chatrace.com
 js.nagich.co.il
 recaptcha.net
+f56df16859bd97c585f6f19f0a583c84.otlp.bugsnag.com
+v2.mishnatyosef.org
 mishnatyosef.org
 sefaria.org.il
 www.matara.pro
