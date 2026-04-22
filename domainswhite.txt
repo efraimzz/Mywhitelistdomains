@@ -424,3 +424,7 @@ auth.koshersystem.com
 lomdaat-apps-odoo.ams3.cdn.digitaloceanspaces.com
 lomdaat-music.ams3.cdn.digitaloceanspaces.com
 jusic.co
+
+#update
+update.intl.miui.com
+ultimateota.d.miui.com
