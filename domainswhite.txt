@@ -321,6 +321,7 @@ records.jewishpodcasts.fm
 *.torah-box.com
 zerem.biz
 image.zingmusic.app
+music.hngn.co.il
 
 #bank
 #ecm.capitalone.com
