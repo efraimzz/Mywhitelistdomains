@@ -438,3 +438,5 @@ s-gke-usc1-nssi4-69.firebaseio.com
 #pay
 pay-users-pa.googleapis.com
 consentprimitivedataservice-pa.googleapis.com
+
+sg.iot.dreame.tech
