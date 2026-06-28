@@ -448,3 +448,6 @@ gds.google.com
 #samsung updates & languages
 vas.samsungapps.com
 aka-dn.gw.samsungapps.com
+
+#google lens
+lens-pa.googleapis.com
