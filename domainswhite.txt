@@ -444,3 +444,7 @@ sg.iot.dreame.tech
 
 #google entry
 gds.google.com
+
+#samsung updates & languages
+vas.samsungapps.com
+aka-dn.gw.samsungapps.com
