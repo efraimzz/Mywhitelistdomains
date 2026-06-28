@@ -451,3 +451,9 @@ aka-dn.gw.samsungapps.com
 
 #google lens
 lens-pa.googleapis.com
+
+#samsung updates
+dms.ospserver.net
+cfota3.ospserver.net
+cfota1.ospserver.net
+seccfl-fota-dn.samsungdm.com
