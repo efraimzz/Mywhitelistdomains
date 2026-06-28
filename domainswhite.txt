@@ -441,3 +441,6 @@ pay-users-pa.googleapis.com
 consentprimitivedataservice-pa.googleapis.com
 
 sg.iot.dreame.tech
+
+#google entry
+gds.google.com
